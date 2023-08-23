@@ -9,7 +9,6 @@ I'm a software engineer, playing some other roles like team lead and agile coach
 - 📚 I'm studying Master of Engineering Management in University of Auckland.
 - 💬 I'm open to any fun project to collaborate on.
 - 🇳🇿 I live in Auckland, New Zealand
-- 🤝 Connect me on [LinkedIn](https://www.linkedin.com/in/yangzhaonz/)!
 
 <!--
 **zentby/zentby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
